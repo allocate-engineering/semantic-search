@@ -1,5 +1,7 @@
 FROM jupyter/minimal-notebook
-# python:3.11-slim
+#python:3.11-slim
+
+ENV JUPYTER_ENABLE_LAB=yes
 
 WORKDIR /app
 
