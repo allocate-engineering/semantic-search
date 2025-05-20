@@ -1,0 +1,9 @@
+{
+  "name": "Semantic Search Interview",
+  "context": "..",
+  "dockerFile": "../docker/python/Dockerfile",
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": ["ms-python.python"]
+}
