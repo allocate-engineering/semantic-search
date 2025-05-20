@@ -1,4 +1,5 @@
-FROM python:3.11-slim
+FROM jupyter/minimal-notebook
+# python:3.11-slim
 
 WORKDIR /app
 
